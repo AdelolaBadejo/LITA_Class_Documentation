@@ -18,3 +18,5 @@
 - SQL: A Structure Query Language for managing and querying relational databases, it is required for Data extraction  and manipulation
 - Microsoft Power BI: Business analysis tool for interactive visualisation and business inteligence capabilities
 - Github: Data Analyst portfolio building
+
+
