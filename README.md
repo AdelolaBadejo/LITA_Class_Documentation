@@ -19,4 +19,15 @@
 - Microsoft Power BI: Business analysis tool for interactive visualisation and business inteligence capabilities
 - Github: Data Analyst portfolio building
 
+#### DATA EXPLORATION
+Data expolration is a crucial step that involvesexamining and unerstanding the data before applying any analytical techniques.
+It helps analyst gain a deeper understanding of the datasets, which is esential for making informed decisions and conducting 
+more detailed analysis
 
+#### Microsoft Excel
+Pivot Table
+![excel hr](https://github.com/user-attachments/assets/96217bd4-704f-43a3-9ea9-721495ddabc5)
+
+SQL (Structure Query Language)
+
+![SQl HR](https://github.com/user-attachments/assets/23555af3-b656-42a4-9988-c254c1410ce3)
