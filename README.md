@@ -31,3 +31,10 @@ Pivot Table
 SQL (Structure Query Language)
 
 ![SQl HR](https://github.com/user-attachments/assets/23555af3-b656-42a4-9988-c254c1410ce3)
+
+Microsoft Power Business Intelligence
+![powerBI Hr](https://github.com/user-attachments/assets/85a505d7-f88a-4131-b43d-754c3e36dee6)
+
+![powerbi hr4](https://github.com/user-attachments/assets/82a8429c-78aa-4f85-aa13-044b492bfc69)
+
+
