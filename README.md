@@ -4,9 +4,11 @@
                                                                                                                                     
 ### PROJECT TITLE: BASIC FOUNDATION OF DATA ANALYSIS
 
-#### PROJECT OVERVIEW: this Project aims at documenting and reflecting on my foundational knowledge and experience in my Data Analysis Journey, showcasing the skills gained and tools utilized in my journey in understanding Data Analysis from initial exposure to practical applications
+#### PROJECT OVERVIEW
+This Project aims at documenting and reflecting on my foundational knowledge and experience in my Data Analysis Journey, showcasing the skills gained and tools utilized in my journey in understanding Data Analysis from initial exposure to practical applications
 
-#### DATA SOURCES: The basic of sources my data are open source data which is a publicly available dataset that can be freely accessed, used and modified and shared. it can come from various platforms including gvernment databases, examples include data from Kaggle and Github. Other sources of my Data is international Brewries
+#### DATA SOURCES
+The basic of sources my data are open source data which is a publicly available dataset that can be freely accessed, used and modified and shared. it can come from various platforms including gvernment databases, examples include data from Kaggle and Github. Other sources of my Data is international Brewries
 
 #### DATA FORMS
 - Structure Data (Data in table format)
